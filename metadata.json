@@ -1,0 +1,7 @@
+{
+  "name": "FaceAnal",
+  "description": "An AI-powered service that analyzes your face to determine your animal look-alike, providing personalized personality insights and fortune-telling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
